@@ -1,0 +1,7 @@
+api:
+  url: # Contrast Server Url
+  api_key: # Contrast API Key
+  service_key: # Contrast Service Key
+  user_name: # Contrast User Name
+server:
+  name: # Server name
